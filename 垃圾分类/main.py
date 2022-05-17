@@ -1,3 +1,4 @@
+'''主页面'''
 import pygame,pgzero,pgzrun
 import sys,random,os
 
