@@ -342,6 +342,4 @@ def info_load(selection):
 
 main_show()
 pygame.quit()
-=======
-pygame.quit()
->>>>>>> df723081dc548c1cd4758d2cb416f17527be0d45
+
