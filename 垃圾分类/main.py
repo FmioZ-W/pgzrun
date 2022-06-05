@@ -63,6 +63,7 @@ def help_info_display():
         pygame.display.flip()
 
 
+<<<<<<< HEAD
 #精灵类--垃圾桶
 class Trash(pygame.sprite.Sprite):
     def __init__(self,img_file_path):
@@ -341,3 +342,6 @@ def info_load(selection):
 
 main_show()
 pygame.quit()
+=======
+pygame.quit()
+>>>>>>> df723081dc548c1cd4758d2cb416f17527be0d45
