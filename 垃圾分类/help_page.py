@@ -23,6 +23,4 @@ def help_info_display():
                     break
         if flag_bc == 1:
             break
-       # pygame.display.flip()
-
-help_info_display()
+        pygame.display.flip()
